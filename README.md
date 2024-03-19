@@ -1,0 +1,1 @@
+This repository consists of folders. Each folder is containing the files necessary to solve a particular regression problem. The repository contains learning projects, where I am practicing concepts on fictional projects.
